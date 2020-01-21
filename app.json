@@ -1,0 +1,23 @@
+{
+  "id": "96e459fe-b61c-4fb9-ac01-ff319ecee12a",
+  "name": "3.WebServices",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "13.0.0.0",
+  "application": "13.0.0.0",
+  "idRange": {
+    "from": 50100,
+    "to": 50600
+  },
+  "showMyCode": true,
+  "runtime": "2.1"
+}
